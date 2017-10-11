@@ -5,7 +5,10 @@ html {
 #bear {
   position: absolute;
   top: 100px;
-  right: 700px;
+  right: 0;
+}
+div {
+  display: block;
 }
 
 /* Write your solution here */
